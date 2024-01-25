@@ -1,0 +1,15 @@
+ API key :	CpZdFxgqaak0xzlpgsxENcW0R
+ API secret key :	BeiYCowqsSkreQyiGF8Nbhk9NZ2fLoNEup2SXVsm7eHUw3ettT
+ Access token :	1069636036291112960-VWi2iWlNVtqdiVGclPyF2nxSagfF7R
+ Access token secret :	8tzIDuTqufLvym4KKv0NlMB8j3Cbi7TxFC1uh6AjIP8NY
+
+ API key :	c101
+ API secret key :	c102
+ Access token :	c103
+ Access token secret :	c104
+
+ API key :	b11
+ API secret key :	b22
+ Access token :	b33
+ Access token secret :	b44
+
